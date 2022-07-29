@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2016/04/06/10/08/background-1311251__340.jpg");
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 22px;
+    color: black;
+}
+#ip1{
+    height: 30px;
+    width: 170px;
+    background-color: white;
+}
+#btn1{
+ background-color:black ;  
+ font-size: 15px;
+ color: white; 
+ border-radius: 5px;
+}
